@@ -2,9 +2,8 @@
 
 **Language: ([🇷🇺 Русский](./README.md) / _🇬🇧 English_)**
 
-[![codecov](https://codecov.io/gh/xTCry/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/xTCry/node-qiwi-sdk)
-[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/qiwi-sdk?style=flat-square)](https://npmjs.com/package/qiwi-sdk)
+[![license MIT](https://img.shields.io/npm/l/@xtcry/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/@xtcry/qiwi-sdk?style=flat-square)](https://npmjs.com/package/@xtcry/qiwi-sdk)
 [![GitHub](https://img.shields.io/github/stars/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 [![last commit](https://img.shields.io/github/last-commit/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 

@@ -2,9 +2,8 @@
 
 **Язык: (_🇷🇺 Русский_ / [🇬🇧 English](./README.en.md))**
 
-[![codecov](https://codecov.io/gh/xTCry/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/xTCry/node-qiwi-sdk)
-[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/qiwi-sdk?style=flat-square)](https://npmjs.com/package/qiwi-sdk)
+[![license MIT](https://img.shields.io/npm/l/@xtcry/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/@xtcry/qiwi-sdk?style=flat-square)](https://npmjs.com/package/@xtcry/qiwi-sdk)
 [![GitHub](https://img.shields.io/github/stars/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 [![last commit](https://img.shields.io/github/last-commit/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 
@@ -86,7 +85,6 @@ const detector = new Detector();
 
 #### _Документация:_
 
-1. [👴 Миграция с 1.x](./docs/migration-from-1x.md)
 2. [**`⚙️ Список методов`**](./docs/api/modules.md)
 3. 🧑‍⚖️ Лицензия - [**MIT**](./LICENSE)
 4. 🆙 [Список изменений](./CHANGELOG.md)
