@@ -2,11 +2,11 @@
 
 **Language: ([🇷🇺 Русский](./README.md) / _🇬🇧 English_)**
 
-[![codecov](https://codecov.io/gh/AlexXanderGrib/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/AlexXanderGrib/node-qiwi-sdk)
-[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/main/LICENSE)
+[![codecov](https://codecov.io/gh/xTCry/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/xTCry/node-qiwi-sdk)
+[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/qiwi-sdk?style=flat-square)](https://npmjs.com/package/qiwi-sdk)
-[![GitHub](https://img.shields.io/github/stars/AlexXanderGrib/node-qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk)
-[![last commit](https://img.shields.io/github/last-commit/AlexXanderGrib/node-qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk)
+[![GitHub](https://img.shields.io/github/stars/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
+[![last commit](https://img.shields.io/github/last-commit/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 
 <center>
   <img src="docs/assets/logo.svg" alt="QIWI SDK" /> 
@@ -86,24 +86,6 @@ const detector = new Detector();
 
 #### _Documentation:_
 
-1. [👴 Migration from 1.x](./docs/migration-from-1x.md)
 2. [**`⚙️ API Reference`**](./docs/api/modules.md)
 3. 🧑‍⚖️ License - [**MIT**](./LICENSE)
 4. 🆙 [Changelog](./CHANGELOG.md)
-
-## ❤️ Contributing
-
-1. ⁉️ Do not hesitate to create [Issues](https://github.com/AlexXanderGrib/node-qiwi-sdk/issues/new)
-2. 🛠️ If you want to contribute to code, follow [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-3. 💸 Also please donate 👉 https://qiwi.com/n/ALEXXGRIB
-4. 🌟 Or give this repo [a star](https://github.com/AlexXanderGrib/node-qiwi-sdk/stargazers), if you liked this lib
-
-## 🙋 Support
-
-You can write issue, or if i am slow to answer it, you can DM me in
-
-**Telegram: [@AlexXanderGrib](https://t.me/AlexXanderGrib)**
-
-## Interested in P2P acquiring in Russia?
-
-Check out my other SDK for YooMoney (formerly Yandex.Money) 👉 [**github.com/AlexXanderGrib/yoomoney-sdk**](https://github.com/AlexXanderGrib/yoomoney-sdk)

@@ -1,5 +1,5 @@
 {
-  "name": "qiwi-sdk",
+  "name": "@xtcry/qiwi-sdk",
   "version": "2.1.4",
   "description": "Typed QIWI (Bank) SDK",
   "main": "dist/index.js",
@@ -23,16 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexXanderGrib/node-qiwi-sdk.git"
+    "url": "git+https://github.com/xTCry/node-qiwi-sdk.git"
   },
   "author": "AlexXanderGrib <me@alexxgrib.me> (https://alexxgrib.me)",
   "license": "MIT",
   "private": false,
   "bugs": {
-    "url": "https://github.com/AlexXanderGrib/node-qiwi-sdk/issues",
-    "email": "me@alexxgrib.me"
+    "url": "https://github.com/xTCry/node-qiwi-sdk/issues"
   },
-  "homepage": "https://github.com/AlexXanderGrib/node-qiwi-sdk#readme",
+  "homepage": "https://github.com/xTCry/node-qiwi-sdk#readme",
   "scripts": {
     "test": "jest --runInBand",
     "build:dist": "rimraf dist && tsc --project tsconfig.build.json",

@@ -2,11 +2,11 @@
 
 **Язык: (_🇷🇺 Русский_ / [🇬🇧 English](./README.en.md))**
 
-[![codecov](https://codecov.io/gh/AlexXanderGrib/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/AlexXanderGrib/node-qiwi-sdk)
-[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/main/LICENSE)
+[![codecov](https://codecov.io/gh/xTCry/node-qiwi-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/xTCry/node-qiwi-sdk)
+[![license MIT](https://img.shields.io/npm/l/qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/qiwi-sdk?style=flat-square)](https://npmjs.com/package/qiwi-sdk)
-[![GitHub](https://img.shields.io/github/stars/AlexXanderGrib/node-qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk)
-[![last commit](https://img.shields.io/github/last-commit/AlexXanderGrib/node-qiwi-sdk?style=flat-square)](https://github.com/AlexXanderGrib/node-qiwi-sdk)
+[![GitHub](https://img.shields.io/github/stars/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
+[![last commit](https://img.shields.io/github/last-commit/xTCry/node-qiwi-sdk?style=flat-square)](https://github.com/xTCry/node-qiwi-sdk)
 
 <center>
   <img src="docs/assets/logo.svg" alt="QIWI SDK" /> 
@@ -90,20 +90,3 @@ const detector = new Detector();
 2. [**`⚙️ Список методов`**](./docs/api/modules.md)
 3. 🧑‍⚖️ Лицензия - [**MIT**](./LICENSE)
 4. 🆙 [Список изменений](./CHANGELOG.md)
-
-## ❤️ Контрибьютинг
-
-1. ⁉️ Не стесняйтесь писать [Issues](https://github.com/AlexXanderGrib/node-qiwi-sdk/issues/new)
-2. 🛠️ Если хотите что-то поправить в коде, следуйте [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-3. 💸 Так-же можете отправить донат 👉 https://qiwi.com/n/ALEXXGRIB
-4. 🌟 Или поставить библиотеке [звёздочку](https://github.com/AlexXanderGrib/node-qiwi-sdk/stargazers), если она вам понравилась
-
-## 🙋 Поддержка
-
-Вы можете написать `Issue`, а если я долго не отвечаю пишите в
-
-**Telegram: [@AlexXanderGrib](https://t.me/AlexXanderGrib)**
-
-## Интересует приём платежей от физ. лиц по РФ?
-
-Попробуйте мою другую библиотеку - SDK для ЮMoney 👉 [**github.com/AlexXanderGrib/yoomoney-sdk**](https://github.com/AlexXanderGrib/yoomoney-sdk)
