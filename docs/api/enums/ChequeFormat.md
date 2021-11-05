@@ -1,4 +1,4 @@
-[qiwi-sdk](../README.md) / [Exports](../modules.md) / ChequeFormat
+[@xtcry/qiwi-sdk](../README.md) / [Exports](../modules.md) / ChequeFormat
 
 # Enumeration: ChequeFormat
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/services/personal.types.ts:60](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L60)
+[src/services/personal.types.ts:60](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L60)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/services/personal.types.ts:61](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L61)
+[src/services/personal.types.ts:61](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L61)

@@ -1,4 +1,4 @@
-[qiwi-sdk](../README.md) / [Exports](../modules.md) / Currency
+[@xtcry/qiwi-sdk](../README.md) / [Exports](../modules.md) / Currency
 
 # Enumeration: Currency
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/services/personal.types.ts:46](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L46)
+[src/services/personal.types.ts:46](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L46)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/services/personal.types.ts:48](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L48)
+[src/services/personal.types.ts:48](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L48)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/services/personal.types.ts:42](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L42)
+[src/services/personal.types.ts:42](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L42)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[src/services/personal.types.ts:44](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/personal.types.ts#L44)
+[src/services/personal.types.ts:44](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/personal.types.ts#L44)

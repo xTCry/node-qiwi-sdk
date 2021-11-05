@@ -1,4 +1,4 @@
-[qiwi-sdk](../README.md) / [Exports](../modules.md) / BillCurrency
+[@xtcry/qiwi-sdk](../README.md) / [Exports](../modules.md) / BillCurrency
 
 # Enumeration: BillCurrency
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/services/p2p.types.ts:15](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/p2p.types.ts#L15)
+[src/services/p2p.types.ts:15](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/p2p.types.ts#L15)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/services/p2p.types.ts:14](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/p2p.types.ts#L14)
+[src/services/p2p.types.ts:14](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/p2p.types.ts#L14)

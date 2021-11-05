@@ -1,4 +1,4 @@
-[qiwi-sdk](../README.md) / [Exports](../modules.md) / BillPaySource
+[@xtcry/qiwi-sdk](../README.md) / [Exports](../modules.md) / BillPaySource
 
 # Enumeration: BillPaySource
 
@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/services/p2p.types.ts:169](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/p2p.types.ts#L169)
+[src/services/p2p.types.ts:169](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/p2p.types.ts#L169)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[src/services/p2p.types.ts:170](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/p2p.types.ts#L170)
+[src/services/p2p.types.ts:170](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/p2p.types.ts#L170)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[src/services/p2p.types.ts:168](https://github.com/AlexXanderGrib/node-qiwi-sdk/blob/6d1bad4/src/services/p2p.types.ts#L168)
+[src/services/p2p.types.ts:168](https://github.com/xTCry/node-qiwi-sdk/blob/7746322/src/services/p2p.types.ts#L168)
